@@ -35,3 +35,5 @@ http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/31139.mkv
 http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/31884.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Patrulla Trueno (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/279yOM4OQREL36B3SECnRxoB4MZ.jpg" group-title="VOD ESTRENOS 2021",Patrulla Trueno (2021)
 http://redcoliptv.com:8090/movie/32310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patrulla Trueno (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/279yOM4OQREL36B3SECnRxoB4MZ.jpg" group-title="VOD ESTRENOS 2021",Patrulla Trueno (2021)
+http://redcoliptv.com:8090.mkv
