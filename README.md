@@ -21,7 +21,6 @@ http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/22578.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La funeraria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptFvXiJoCV5BB7nWyyOth29Pz99.jpg" group-title="VOD ESTRENOS 2021",La funeraria (2021)
 http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/30621.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Barrenderos espaciales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOefWMYqC1S3aiCTD5MD8HeXl0Y.jpg" group-title="VOD ESTRENOS 2021",Barrenderos espaciales (2021)
-http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/30622.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Ohana: El tesoro de Hawái (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg" group-title="VOD ESTRENOS 2021",Ohana: El tesoro de Hawái (2021)
 http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/30627.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Bliss (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zz9Fa9gDEasVXRgHw3rvFb8Rtpa.jpg" group-title="VOD ESTRENOS 2021",Bliss (2021)
@@ -37,4 +36,4 @@ http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/31884.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnuC6hu7AB5dYW26A3o6NNLlIlE.jpg" group-title="VOD ESTRENOS 2021",Godzilla vs Kong (2021)
 http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/32086.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Patrulla Trueno (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/279yOM4OQREL36B3SECnRxoB4MZ.jpg" group-title="VOD ESTRENOS 2021",Patrulla Trueno (2021)
-http://redcoliptv.com:8090/movie/MC21col503W/32310.mkv
+http://redcoliptv.com:8090/movie/32310.mkv
