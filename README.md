@@ -33,7 +33,5 @@ http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/31138.mkv
 http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/31139.mkv
 #EXTINF:-1 tvg-id="" tvg-name="La Liga de la Justicia de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pI25ennflmJ1R9q7ZTI681f0WBb.jpg" group-title="VOD ESTRENOS 2021",La Liga de la Justicia de Zack Snyder (2021)
 http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/31884.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs Kong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnuC6hu7AB5dYW26A3o6NNLlIlE.jpg" group-title="VOD ESTRENOS 2021",Godzilla vs Kong (2021)
-http://redcoliptv.com:8090/movie/MC21col503W/CGFVcTUJHE/32086.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Patrulla Trueno (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/279yOM4OQREL36B3SECnRxoB4MZ.jpg" group-title="VOD ESTRENOS 2021",Patrulla Trueno (2021)
 http://redcoliptv.com:8090/movie/32310.mkv
